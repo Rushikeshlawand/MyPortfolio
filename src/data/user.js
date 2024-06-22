@@ -1,24 +1,24 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Reactfolio by Rushikesh",
+		name: "Rushikesh Lawand",
+		email: "rushilawand0@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
+		github: "https://github.com/rushikeslawand",
 		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		instagram: "https://instagram.com/bhavdyaaa",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Full-stack Java, Web Developer & Car Enthusiast",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"👋 Hi, I'm Rushikesh Lawand, a skilled in Java & MERN stack developer with a strong background in MongoDB, Express.js, React.js, and Node.js. I excel in building scalable web applications and integrating APIs. Let's connect!",
 	},
 
 	about: {
