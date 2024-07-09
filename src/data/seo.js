@@ -2,15 +2,15 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
+			"👋 Hi, I'm Rushikesh Lawand, a skilled in Java & MERN stack developer with a strong background in MongoDB, Express.js, React.js, and Node.js. I excel in building scalable web applications and integrating APIs. Let's connect!",
 		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"👋 Hi, I'm Rushikesh Lawand, a skilled in Java & MERN stack developer with a strong background in MongoDB, Express.js, React.js, and Node.js. I excel in building scalable web applications and integrating APIs. Let's connect!",
+		keywords: [""],
 	},
 
 	{
@@ -23,7 +23,7 @@ const SEO = [
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
+			"https://www.linkedin.com/in/rushikesh-lawand/",
 		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
 	},
 

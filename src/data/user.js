@@ -1,30 +1,30 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Reactfolio by Rishi",
+		name: "Rushikesh Lawand.",
+		email: "rushilawand0@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		twitter: "https://x.com/BeingBhavdya",
+		github: "https://github.com/rushikeshlawand",
+		linkedin: "https://www.linkedin.com/in/rushikesh-lawand",
+		instagram: "https://instagram.com/bhavdyaaa",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Full-stack Java, Web Developer and Car Enthusiast 🚗",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"👋 Hi, I'm Rushikesh Lawand, a skilled in Java & MERN stack developer with a strong background in MongoDB, Express.js, React.js, and Node.js. I excel in building scalable web applications and integrating APIs. Let's connect!",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I am rushikesh lawand lived in pune & i design future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			" Full Stack Developer with expertise in React.js, CSS, HTML, JavaScript, Object-Oriented Programming (OOP), and Java. Proven track record in developing dynamic user interfaces (UIs) and scalable backend solutions. Strong problem-solving skills, proficient in modern web technologies, and committed to continuous learning and staying updated with industry trends. Seeking a challenging role to leverage my skills and contribute to innovative projects.",
 	},
 
 	articles: {
@@ -35,10 +35,10 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Customer Portal",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Developed proficiency in MVC .NET, MySQL, and React for frontend development. Contributed effectively to various project tasks, demonstrating reliability and adaptability. Collaborated with cross-functional teams to enhance project outcomes. Maintained a positive work ethic throughout the internship and consistently delivered high-quality work. Gained valuable experience and expressed eagerness to apply these skills in future roles.",
+	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
