@@ -1,22 +1,37 @@
 const INFO = {
 	main: {
+<<<<<<< HEAD
 		title: "Reactfolio by Rishi",
 		name: "Rushikesh Lawand.",
+=======
+		title: "Reactfolio by Rushikesh",
+		name: "Rushikesh Lawand",
+>>>>>>> 5df66d6000594e9c7ee5b9672b5cd63abb968a3c
 		email: "rushilawand0@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
+<<<<<<< HEAD
 		twitter: "https://x.com/BeingBhavdya",
 		github: "https://github.com/rushikeshlawand",
 		linkedin: "https://www.linkedin.com/in/rushikesh-lawand",
+=======
+		twitter: "https://twitter.com/",
+		github: "https://github.com/rushikeslawand",
+		linkedin: "https://linkedin.com/",
+>>>>>>> 5df66d6000594e9c7ee5b9672b5cd63abb968a3c
 		instagram: "https://instagram.com/bhavdyaaa",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
+<<<<<<< HEAD
 		title: "Full-stack Java, Web Developer and Car Enthusiast 🚗",
+=======
+		title: "Full-stack Java, Web Developer & Car Enthusiast",
+>>>>>>> 5df66d6000594e9c7ee5b9672b5cd63abb968a3c
 		description:
 			"👋 Hi, I'm Rushikesh Lawand, a skilled in Java & MERN stack developer with a strong background in MongoDB, Express.js, React.js, and Node.js. I excel in building scalable web applications and integrating APIs. Let's connect!",
 	},
